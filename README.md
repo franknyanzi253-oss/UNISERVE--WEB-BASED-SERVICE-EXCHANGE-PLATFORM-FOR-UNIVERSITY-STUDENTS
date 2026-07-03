@@ -1,5 +1,5 @@
 # uniserve
-UniServe - Web-based Service Exchange Platform
+UniServe - Web-based Service Exchange Platform for University Students
 
 **Problem**
 Students at UICT struggle to access essential campus services due to reliance on physical advertisements, word-of-mouth, and informal WhatsApp groups. These methods lack:
